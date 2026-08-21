@@ -1,2 +1,17 @@
 langchain
 python-dotenv
+langchain-community
+ipykernel
+langchain-openai
+pypdf
+pypdfium2
+pymupdf
+arxiv<2.0.0
+wikipedia
+langchain-text-splitters
+chromadb
+langchain_huggingface
+sentence_transformers
+langchain_groq
+langchain_core
+langserve
